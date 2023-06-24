@@ -1,0 +1,1 @@
+SELECT AVG(mark) FROM marks;
